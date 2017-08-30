@@ -1,0 +1,13 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "j4mie/idiorm": "^1.5",
+        "fzaninotto/faker": "^1.7",
+        "slim/php-view": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Controller\\": "controller/"
+        }
+    }
+}
